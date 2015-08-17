@@ -1,0 +1,48 @@
+*{
+    font-family: Helvetica Neue, Arial, sans-serif;
+}
+
+body{
+    width:100vw;
+    height: 100vh;
+}
+
+small {
+    margin-left: 25px;
+}
+
+#subText{
+    margin:0;
+    padding:0;
+    font: 100 0.8em Helvetica Neue;
+}
+
+.center {
+    width: 100%;
+}
+
+.center > *{
+    margin: auto;
+
+}
+
+.required{
+    font: 100 0.8em Helvetica Neue;
+    color:red;
+}
+
+ul{
+    list-style-type: none;
+}
+.li-name{
+    font: 100 1em Helvetica Neue;
+}
+
+.li-url, .li-type{
+    margin-left: 25px;
+}
+
+.res{
+    width: 50%;
+    float: left;
+}
